@@ -7,4 +7,5 @@ echo "Olá mundo => " . retoraNome();
 class Animal
 William
 Maceio
-Corsa Sedan 
+Corsa Sedan
+Celular 
