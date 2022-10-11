@@ -8,4 +8,5 @@ class Animal
 William
 Maceio
 Corsa Sedan
-Celular 
+Celular
+Cadeira 
