@@ -9,4 +9,5 @@ William
 Maceio
 Corsa Sedan
 Celular
-Cadeira 
+Cadeira
+Dinheiro 
