@@ -1,2 +1,5 @@
 <?php
-echo "Olá mundo";
+function retoraNome () {
+    return "william";
+}
+echo "Olá mundo => " . retoraNome();
