@@ -6,4 +6,5 @@ echo "Olá mundo => " . retoraNome();
 
 class Animal
 William
-Maceio 
+Maceio
+Corsa Sedan 
